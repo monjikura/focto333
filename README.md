@@ -10,3 +10,6 @@ Example : #! when Sinatra sings ...
 
  #neg3 '!" /q?/...
  then { elif } it cmp from future import 0,0 
+
+https://youtu.be/qGPQSyaA61s?si=cTCaQ89lHYopfFbQ
+sanity[ SANiTY ]       <?>
