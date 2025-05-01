@@ -13,3 +13,5 @@ Example : #! when Sinatra sings ...
 
 https://youtu.be/qGPQSyaA61s?si=cTCaQ89lHYopfFbQ
 sanity[ SANiTY ]       <?>
+
+In the context of Linux x86-64, "denormals-are-zero" refers to a floating-point processing mode where denormalized numbers (also known as subnormal numbers) are treated as zero during calculations. This is achieved by enabling the "Flush-to-Zero" (FTZ) and "Denormals-Are-Zero" (DAZ) flags in the MXCSR (Masked Condition and Status Register) of the x86-64 processor. 
