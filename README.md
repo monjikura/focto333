@@ -24,3 +24,4 @@ In the context of Linux x86-64, "denormals-are-zero" refers to a floating-point 
  .text 0 ~.[1,1]                                  ~ $ clang that.s
 that.s:6:13: error: register expected
  .text 0 ~.[1,1]
+/* You can use the CBZ or CBNZ instructions to avoid changing the condition code flags and to reduce the number of instructions */
