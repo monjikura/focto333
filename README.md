@@ -25,3 +25,7 @@ In the context of Linux x86-64, "denormals-are-zero" refers to a floating-point 
 that.s:6:13: error: register expected
  .text 0 ~.[1,1]
 /* You can use the CBZ or CBNZ instructions to avoid changing the condition code flags and to reduce the number of instructions */
+
+#pragma once ="girl pee standing"
+
+Your options are either to free up a register and zero/sign extend then add r32,r32, or to add r8,r8 then branch on the carry flag to adjust the result....# 0,0
