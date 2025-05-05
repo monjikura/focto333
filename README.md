@@ -1,3 +1,5 @@
+"AltaCluster" of eight dual, 333 MHz, Intel Pentium II computers running a modified Linux kernel. Bader ported a significant amount of software to provide Linux support
+
 _pass( use16 ) relative to abi
 .section .text
 
