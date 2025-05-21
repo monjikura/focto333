@@ -2,6 +2,8 @@ https://github.com/monjikura/rabbit.java
 
 eigenvalue 1.312069129398 das nacht untergruppen !!
 
+https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf
+
 "AltaCluster" of eight dual, 333 MHz, Intel Pentium II computers running a modified Linux kernel. Bader ported a significant amount of software to provide Linux support
 
 _pass( use16 ) relative to abi
