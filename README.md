@@ -9,6 +9,8 @@ https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-ge
 _pass( use16 ) relative to abi
 .section .text
 
+require https://github.com/monjikura/focto333/blob/124830bb232067a68e6c69c1d05b93be381f76bc/Warning/local.js
+
 javac ptx01.java
 ptx01.java:6: error: cannot find symbol
      that pussy = int [].class;
