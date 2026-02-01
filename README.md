@@ -1,3 +1,8 @@
+Townsend Directive 1950
+...
+https://youtu.be/lVBhr4ChQas?si=G_SCjivwElX5VqxR
+...
+
 https://github.com/monjikura/rabbit.java
 
 eigenvalue 1.312069129398 das nacht untergruppen !!
